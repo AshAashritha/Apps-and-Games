@@ -1,0 +1,17 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+.line{
+    margin: 8px auto;
+    width: 50px;
+    height: 6px;
+    background-color: blue;
+    
+}
+#apps{
+    background-color: lightblue;
+}
+#chatbot{
+    background-color: lightgreen;
+}
